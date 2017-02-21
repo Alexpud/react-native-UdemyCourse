@@ -63,6 +63,6 @@ const styles = {
     flexDirection: 'column',
     justifyContent: 'center'
   }
-}
+};
 
 export default App;
